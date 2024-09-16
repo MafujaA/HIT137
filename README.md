@@ -1,6 +1,4 @@
-# HIT137 
-# Group 100
-# Assignment 2
+# HIT137 | Group 100 | Assignment 2
 # Question 2 codes and outputs by Mafuja
 # Q2(A) - The Gatekeeper
 # Q2(B) - The Chain of Strings
